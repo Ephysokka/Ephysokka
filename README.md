@@ -1,7 +1,5 @@
 # Hi, I'm Ephraim Ahidjo Sokka
 
-##  About Me
-
 DevOps Engineer with hands-on experience in CI/CD automation, cloud infrastructure, containerization, and monitoring.
 
 * building DevOps and Cloud projects
